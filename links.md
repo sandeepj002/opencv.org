@@ -16,6 +16,7 @@ type: page
 
 ### Tutorials/Lessons
 
+  
 *   [Learn OpenCV (C++, Python)](http://www.learnopencv.com/)
 *   [PyImageSearch (Python)](http://www.pyimagesearch.com/)
 *   [Code for the book "Mastering OpenCV with Practical Computer Vision Projects" (C++)](https://github.com/MasteringOpenCV/code)
@@ -25,6 +26,7 @@ type: page
 *   [Tutorials AI Shack (C++)](http://aishack.in/tutorials/)
 *   [Tutorials (C++, Qt, Android)](http://amin-ahmadi.com/category/tutorials/opencv-tutorials/)
 *   [Learn OpenCV with Mapt](https://www.packtpub.com/mapt/search_results?query=OpenCV&ss_cck_field_available=Available,Early%20Access)
+*   [Machine Learning for OpenCV – Supervised Learning](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-opencv-supervised-learning-video)
 
 ### Articles/Pages
 
